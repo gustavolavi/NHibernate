@@ -1,0 +1,12 @@
+G:\Projects\NHibernate2\NHibernate2\bin\Debug\NHibernate2.exe.config
+G:\Projects\NHibernate2\NHibernate2\bin\Debug\NHibernate2.exe
+G:\Projects\NHibernate2\NHibernate2\bin\Debug\NHibernate2.pdb
+G:\Projects\NHibernate2\NHibernate2\bin\Debug\FluentNHibernate.dll
+G:\Projects\NHibernate2\NHibernate2\bin\Debug\Iesi.Collections.dll
+G:\Projects\NHibernate2\NHibernate2\bin\Debug\NHibernate.dll
+G:\Projects\NHibernate2\NHibernate2\bin\Debug\FluentNHibernate.pdb
+G:\Projects\NHibernate2\NHibernate2\bin\Debug\FluentNHibernate.xml
+G:\Projects\NHibernate2\NHibernate2\bin\Debug\Iesi.Collections.xml
+G:\Projects\NHibernate2\NHibernate2\bin\Debug\NHibernate.xml
+G:\Projects\NHibernate2\NHibernate2\obj\Debug\NHibernate2.exe
+G:\Projects\NHibernate2\NHibernate2\obj\Debug\NHibernate2.pdb
